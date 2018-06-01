@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: cloudtest-chapter1-servicehi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lzq996298643
+Implementation-Vendor-Id: com.cloudtest
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/cloudtest-ch
+ apter1-servicehi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
