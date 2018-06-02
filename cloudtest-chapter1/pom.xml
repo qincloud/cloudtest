@@ -11,5 +11,6 @@
   	<module>cloudtest-chapter1-eurekaserver</module>
   	<module>cloudtest-chapter1-servicehi</module>
   	<module>cloudtest-chapter1-serviceribbon</module>
+  	<module>cloudtest-chapter1-servicefeign</module>
   </modules>
 </project>
