@@ -7,5 +7,6 @@
   <modules>
   	<module>cloudtest-chapter1</module>
   	<module>cloudchapter1</module>
+  	<module>cloudtest-config</module>
   </modules>
 </project>
